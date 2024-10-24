@@ -1,0 +1,20 @@
+algorithm: Ditto
+client_num: 100
+sample_ratio: 0.2
+seed: 0
+device: cuda
+
+dataset: CIFAR10
+partition: hetero
+alpha: 0.5
+drift_pattern: false
+
+model: CNN
+rounds: 200
+epochs: 5
+local_epochs: 5
+momentum: 0.9
+weight_decay: 0.00001
+batch_size: 64
+lr: 0.01
+lambda: 5.0

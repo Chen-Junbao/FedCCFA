@@ -1,0 +1,19 @@
+algorithm: SCAFFOLD
+client_num: 20
+sample_ratio: 1
+seed: 0
+device: cuda
+
+dataset: CINIC-10
+partition: hetero
+alpha: 0.1
+drift_pattern: recurrent
+
+model: CNN
+rounds: 200
+epochs: 5
+momentum: 0
+weight_decay: 0
+batch_size: 64
+lr: 0.01
+global_lr: 1.0
