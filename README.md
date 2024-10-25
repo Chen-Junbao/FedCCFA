@@ -1,6 +1,6 @@
 # FedCCFA: Classifier Clustering and Feature Alignment for Federated Learning under Distributed Concept Drift
 
-This is the implementation of our paper: [Classifier Clustering and Feature Alignment for Federated Learning under Distributed Concept Drift](https://openreview.net/forum?id=6ejpSVIiIl) (NeurIPS 2024). 
+This is the implementation of our paper: [Classifier Clustering and Feature Alignment for Federated Learning under Distributed Concept Drift](https://arxiv.org/abs/2410.18478) (NeurIPS 2024). 
 In this paper, we propose a federated learning framework with classifier clustering and feature alignment (**FedCCFA**).
 
 ![FedCCFA](FedCCFA.png)
@@ -33,7 +33,7 @@ This repository also provides the implementations of the following methods:
 - **Adaptive-FedAvg**: [Adaptive Federated Learning in Presence of Concept Drift](https://ieeexplore.ieee.org/document/9533710) IJCNN 2021
 - **FedDrift**: [Federated Learning under Distributed Concept Drift](https://proceedings.mlr.press/v206/jothimurugesan23a.html) AISTATS 2023
 - **Flash**: [Flash: Concept Drift Adaptation in Federated Learning](https://proceedings.mlr.press/v202/panchal23a.html) ICML 2023
-- **FedCCFA**: [Classifier Clustering and Feature Alignment for Federated Learning under Distributed Concept Drift](https://openreview.net/forum?id=6ejpSVIiIl) NeurIPS 2024
+- **FedCCFA**: [Classifier Clustering and Feature Alignment for Federated Learning under Distributed Concept Drift](https://arxiv.org/abs/2410.18478) NeurIPS 2024
 
 ## 📄 Experiments
 
